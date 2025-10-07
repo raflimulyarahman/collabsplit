@@ -1,7 +1,7 @@
 import { TransactionBlock } from "@mysten/sui.js/transactions";
 import { SuiClient } from "@mysten/sui.js/client";
 
-const PACKAGE_ID = "YOUR_PACKAGE_ID_AFTER_DEPLOYMENT";
+const PACKAGE_ID = "0x5a3030666e65f007c0701a0a9b211b2f63a8b3aacb68e16adfe7e69d41241f12";
 const MODULE_NAME = "split";
 
 export class CollabSplitSDK {
